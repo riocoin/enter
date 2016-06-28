@@ -1,0 +1,9 @@
+Building EnterCoin
+
+See doc/readme-qt.rst for instructions on building EnterCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EnterCoin.
+
+See doc/build-*.txt for instructions on building entercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of EnterCoin.
